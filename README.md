@@ -8,7 +8,7 @@ Before reporting an issue, please ensure it has not already been reported by sea
 
 ### How to Report a New Issue
 
-1. **Create a New Issue**: Click on the [Issues tab](https://github.com/IndustrialParasite/issue-tracker/issues) and then select the "New Issue" button.
+1. **Create a New Issue**: Click on the [Issues tab](https://github.com/Industrial-Parasite/industrial-parasite-issues/issues) and then select the "New Issue" button.
 2. **Choose a Template**: If available, select a template that best matches the type of issue you're reporting. Templates are designed to guide you in providing all the necessary information.
 3. **Describe the Issue**:
    - **Title**: Provide a short, descriptive title for your issue.
