@@ -23,14 +23,18 @@ Steps to reproduce the behavior:
 
 A clear and concise description of what you expected to happen.
 
+## Actual behavior
+
+A clear and concise description of what actually happened.
+
 ## Screenshots
 
 If applicable, add screenshots to help explain your problem.
 
-## Environment (please complete the following information):
+## Environment:
 
 - OS: [e.g., iOS]
-- Browser [e.g., Chrome, Safari]
+- Browser: [e.g., Chrome, Safari]
 
 ## Additional context
 
