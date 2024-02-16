@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Create a report to help us improve
-title: "[BUG] "
+title: "[BUG] Title Here"
 labels: bug
 assignees: ""
 ---
@@ -31,7 +31,6 @@ If applicable, add screenshots to help explain your problem.
 
 - OS: [e.g., iOS]
 - Browser [e.g., Chrome, Safari]
-- Version [e.g., 22]
 
 ## Additional context
 
